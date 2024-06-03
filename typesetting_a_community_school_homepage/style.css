@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap');
 
 @font-face {
-    font-family: 'Roboto Slab';
+    font-family: 'Serif';
     font-style: normal;
     font-weight: 400;
-    src: url('fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf');
+    src: url('GardenaQuanto-Regular.ttf');
 }
 
 @font-face {
-    font-family: 'Kanit';
+    font-family: 'Sans serif';
     font-style: normal;
     font-weight: 400;
-    src: url('fonts/Kanit/Kanit-Light.ttf');
+    src: url('Magiesta.ttf');
 }
 
 
